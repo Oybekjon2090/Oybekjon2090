@@ -3,10 +3,10 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-[![Telegram Badge](https://img.shields.io/badge/oybek_torakulov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/torakulov_19) 
-[![Instagram Badge](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_torakhulov_1/)
+[![Telegram Badge](https://img.shields.io/badge/@oybek.torakulo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/torakulov_19) 
+[![Instagram Badge](https://img.shields.io/badge/@oybek_torakulo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_torakhulov_1/)
 [![Facebook Badge](https://img.shields.io/badge/oybek_torakulov-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/oybek.toraqulov.1)
-[![Linkedin Badge](	https://img.shields.io/badge/oybek_torakulov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/oybek-toraqulov-39a04a235/) 
+[![Linkedin Badge](	https://img.shields.io/badge/oybek_torakulov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oybek-toraqulov-39a04a235/) 
 [![Freelancer Badge](	https://img.shields.io/badge/oybek_torakulov-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com./u/Torakhulov1)
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -30,7 +30,8 @@
 ![Image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Image](https://img.shields.io/badge/MSI%20laptop-FF0000?style=for-the-badge&logo=msi&logoColor=white)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oybekjon2090&theme=dark" alt="Oybekjon2090" /> <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Oybekjon2090&show_icons=true&theme=gotham" alt="Oybekjon2090" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oybekjon2090&theme=dark" alt="Oybekjon2090" />
+<p align="top"> <img src="https://github-readme-stats.vercel.app/api?username=Oybekjon2090&show_icons=true&theme=gotham" alt="Oybekjon2090" />
 
 
 
