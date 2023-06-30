@@ -3,7 +3,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-[![Telegram Badge](https://img.shields.io/badge/@oybek_torakulov--2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/torakulov_19) 
+[![Telegram Badge](https://img.shields.io/badge/@oybek_torakulov--2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/torakulov_19)](https://t.me/torakulov_19) 
 [![Instagram Badge](https://img.shields.io/badge/oybek_torakulov--E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_torakhulov_1/)
 [![Facebook Badge](https://img.shields.io/badge/oybek_torakulov-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/oybek.toraqulov.1)
 [![Linkedin Badge](	https://img.shields.io/badge/oybek_torakulov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/oybek-toraqulov-39a04a235/) 
