@@ -1,4 +1,4 @@
-<h1 align="center">PHP Developer</h1>
+<h1 align="center">Flutter Developer</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
@@ -45,6 +45,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sukhrobnuraliev&show_icons=true&theme=gotham" alt="sukhrobnuraliev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Oybekjon2090&show_icons=true&theme=gotham" alt="Oybekjon2090" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhrobnuraliev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="sukhrobnuraliev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Oybekjon2090&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Oybekjon2090" /></a> </p>
