@@ -9,9 +9,10 @@
 [![Linkedin Badge](	https://img.shields.io/badge/oybek_torakulov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oybek-toraqulov-39a04a235/) 
 [![Freelancer Badge](	https://img.shields.io/badge/oybek_torakulov-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com./u/Torakhulov1)
   
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 About Me:</h2>  
 
 - :computer:  I’m Flutter developer
+- ![GitHub followers](https://img.shields.io/github/followers/Oybekjon2090?logo=GitHub&style=for-the-badge)
 
 
 ## ⚡ Technologies
@@ -31,7 +32,11 @@
 ![Image](https://img.shields.io/badge/MSI%20laptop-FF0000?style=for-the-badge&logo=msi&logoColor=white)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oybekjon2090&theme=dark" alt="Oybekjon2090" />
-<p align="top"> <img src="https://github-readme-stats.vercel.app/api?username=Oybekjon2090&show_icons=true&theme=gotham" alt="Oybekjon2090" />
+   
+ <a href="#">
+   >&nbsp;<img align="center right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Oybekjon2090&theme=dark" alt="Mukhammad Mirzo" />
+  </a>
+
 
 
 
